@@ -6,10 +6,6 @@ pdf_document: default
 urlcolor: blue
 ---
 
-
-Please upload the `PDF` that you obtain by knitting
-the `Rmd` file that contains your `R` code and your text answering other questions. So this uploaded file will also show any output that `R` produces in addition to your code.
-
 ## Part 1. A disguising plot
 
 In this exercise, we will be comparing three types of plots for the same set of data.
